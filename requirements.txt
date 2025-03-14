@@ -1,0 +1,9 @@
+echo "tensorflow
+torch
+torchvision
+torchaudio
+numpy
+pandas
+matplotlib
+wfdb
+scikit-learn" > requirements.txt
